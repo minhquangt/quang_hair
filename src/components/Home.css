@@ -1,0 +1,38 @@
+.banner {
+    background-image: url(../asset/banner.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 686px;
+    position: relative;
+}
+
+.ads-shop {
+    position: absolute;
+    width: 660px;
+    top: 30%;
+    left: 8%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 200px;
+}
+
+.ads-shop h1,
+.ads-shop p {
+    color: white;
+}
+
+.ads-shop p {
+    font-size: 18px;
+}
+
+.ads-shop a {
+    padding: 16px;
+    width: 180px;
+    font-size: 18px;
+    background: white;
+    text-decoration: none;
+    color: #000;
+    text-align: center;
+}

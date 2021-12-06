@@ -1,0 +1,48 @@
+.navbar {
+    background-color: #000;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+    float: left;
+}
+
+.links a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    line-height: 60px;
+    margin-left: 24px;
+    height: 60px;
+}
+
+.logo img {
+    margin: 8px 0 0 -275px;
+}
+
+.cart-icon a {
+    color: white;
+    line-height: 60px;
+    float: right;
+    margin-right: 16px;
+}
+
+.cart-icon span {
+    border-radius: 50%;
+    background: white;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 4px;
+    right: 14px;
+    text-align: center;
+    z-index: 1;
+    line-height: 24px;
+    color: #000;
+}
