@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/quang_hair/static/css/main.7e9dde7c.chunk.css",
+    "main.js": "/quang_hair/static/js/main.36ec5900.chunk.js",
+    "main.js.map": "/quang_hair/static/js/main.36ec5900.chunk.js.map",
+    "runtime-main.js": "/quang_hair/static/js/runtime-main.9ffe5335.js",
+    "runtime-main.js.map": "/quang_hair/static/js/runtime-main.9ffe5335.js.map",
+    "static/js/2.2b1c0d73.chunk.js": "/quang_hair/static/js/2.2b1c0d73.chunk.js",
+    "static/js/2.2b1c0d73.chunk.js.map": "/quang_hair/static/js/2.2b1c0d73.chunk.js.map",
+    "static/js/3.307c925e.chunk.js": "/quang_hair/static/js/3.307c925e.chunk.js",
+    "static/js/3.307c925e.chunk.js.map": "/quang_hair/static/js/3.307c925e.chunk.js.map",
+    "index.html": "/quang_hair/index.html",
+    "static/css/main.7e9dde7c.chunk.css.map": "/quang_hair/static/css/main.7e9dde7c.chunk.css.map",
+    "static/js/2.2b1c0d73.chunk.js.LICENSE.txt": "/quang_hair/static/js/2.2b1c0d73.chunk.js.LICENSE.txt",
+    "static/media/DynamiteClay.c56d2509.jpg": "/quang_hair/static/media/DynamiteClay.c56d2509.jpg",
+    "static/media/GoldDigger.050d0e33.jpg": "/quang_hair/static/media/GoldDigger.050d0e33.jpg",
+    "static/media/Home.css": "/quang_hair/static/media/banner.18877000.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ffe5335.js",
+    "static/js/2.2b1c0d73.chunk.js",
+    "static/css/main.7e9dde7c.chunk.css",
+    "static/js/main.36ec5900.chunk.js"
+  ]
+}
